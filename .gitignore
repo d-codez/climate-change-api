@@ -1,6 +1,9 @@
 # Dependency directories
 /node_modules/
 
+# Package files
+package-lock.json
+
 # Environment configuration
 .env
 
